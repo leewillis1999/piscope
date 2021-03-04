@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+
+		<meta charset="utf-8">
+		<title>PiZeroCam</title>
+	</head>
+
+	<body>
+
+		<img id="image-container" style="width:100%; height:100%"  >
+
+	</body>
+
+
+	<script>
+
+
+		(function(){
+			console.log("Started....");
+			console.log(document.querySelector("#image-container"));
+
+			let el = document.querySelector("#image-container");
+
+			function loadImage() {
+			
+				console.log("Getting new image");
+				let http = new XMLHttpRequest();
+				http.addEventListener("load", (p, r) => {
+					if (http.status===200 && http.response.length!==0){
+						let du = "data:image/jpg;base64," + http.response;
+						//console.log(du);
+						el.setAttribute("src", du);
+					}
+					setTimeout(loadImage, 1000);
+				});
+				http.open("GET", "/api/getImage");
+				http.send();
+			}	//load image
+
+			
+			loadImage();
+
+		})();
+	</script>
+<html>
