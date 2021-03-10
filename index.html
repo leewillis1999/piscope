@@ -38,17 +38,28 @@
 		.zoomed-image {
 			border: 0px solid #ccc;
 			background-repeat: no-repeat;
+
+			/*
+			box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.5);
+			margin: 5px;
+*/
 		}
 
 		.zoom-button {
-			width: 75px;
+			border: 1px solid lightblue;
+			border-radius: 10px;
+			box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.5);
+			background-color: lightblue;
+			width: 100px;
 			height: 50px;
 			font-size: 40px;
 			font-weight: bold;
-			color: blueviolet;
+			color: #666;
 			position: absolute;
 			right: 10px;
 			top: 10px;
+			outline: none;
+			cursor: pointer;
 		}
 	</style>
 </head>
@@ -56,7 +67,7 @@
 <body>
 	<div class="container">
 		<button type="button"
-				class="zoom-button">+</button>
+				class="zoom-button">1.0</button>
 		<img class="image"
 			 src="target.jpg">
 
@@ -68,7 +79,7 @@
 <script>
 	(function () {
 
-		let zoomlevel = 1;		//1 2 3 4
+		let zoomlevel = 1.0;		//1 2 3 4
 		console.log("Started....");
 		//just put the unzoomed image in to start
 		function zoom() {
@@ -145,10 +156,11 @@
 		let b = document.querySelector(".zoom-button");
 		b.addEventListener("click", e => {
 			console.log(e);
-			zoomlevel++;
+			zoomlevel += 0.5;
 			if (zoomlevel > 6) {
-				zoomlevel = 1;
+				zoomlevel = 1.0;
 			}
+			b.innerText = zoomlevel.toFixed(1);
 			zoom();
 		});
 
