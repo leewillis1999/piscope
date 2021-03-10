@@ -18,7 +18,7 @@ class  web_server(BaseHTTPRequestHandler):
 			logging.info ("Running in " + path)
 
 			if "/api" in self.path:
-				mime = "text/plain";
+				mime = "text/plain"
 				reply = True
 			elif self.path.endswith(".html"):
 				mime = "text/html"
@@ -78,6 +78,8 @@ def start_camera(path):
 
 	logging.info("Finished capture")
 
+#global httpd
+
 try:
 	#configure logging
 	#if os.path.exists("camera.log"):
@@ -92,8 +94,6 @@ try:
 		filename=(logfile)
 	)
 	logging.info("")
-	logging.info("")
-	##logging.info("Here I am ")
 	thread = threading.Thread(target=start_web_server)
 	thread.setDaemon(True)
 	thread.start()

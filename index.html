@@ -1,48 +1,159 @@
 <!DOCTYPE html>
+<html lang="en">
 
-<html>
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible"
+		  content="IE=edge">
+	<meta name="viewport"
+		  content="width=device-width, initial-scale=1.0">
+	<meta name="apple-mobile-web-app-capable"
+		  content="yes" />
 
-	<head>
+	<title>PiZeroCam</title>
 
-		<meta charset="utf-8">
-		<title>PiZeroCam</title>
-	</head>
+	<style>
+		html,
+		body {
+			margin: 0px;
+			padding: 0px;
+			height: 100%;
+			width: 100%;
+		}
 
-	<body>
+		.container {
+			display: grid;
+			place-items: center;
+			width: 100%;
+			height: 100%;
+		}
 
-		<img id="image-container" style="width:100%; height:100%"  >
+		.image {
+			/*display: none;*/
+			width: 100%;
+			height: auto;
+			display: none;
+		}
 
-	</body>
+		.zoomed-image {
+			border: 0px solid #ccc;
+			background-repeat: no-repeat;
+		}
 
+		.zoom-button {
+			width: 75px;
+			height: 50px;
+			font-size: 40px;
+			font-weight: bold;
+			color: blueviolet;
+			position: absolute;
+			right: 10px;
+			top: 10px;
+		}
+	</style>
+</head>
 
-	<script>
+<body>
+	<div class="container">
+		<button type="button"
+				class="zoom-button">+</button>
+		<img class="image"
+			 src="target.jpg">
 
+		<img class="zoomed-image">
 
-		(function(){
-			console.log("Started....");
-			console.log(document.querySelector("#image-container"));
+	</div>
+</body>
 
-			let el = document.querySelector("#image-container");
+<script>
+	(function () {
 
-			function loadImage() {
-			
-				console.log("Getting new image");
-				let http = new XMLHttpRequest();
-				http.addEventListener("load", (p, r) => {
-					if (http.status===200 && http.response.length!==0){
-						let du = "data:image/jpg;base64," + http.response;
-						//console.log(du);
-						el.setAttribute("src", du);
-					}
-					setTimeout(loadImage, 1000);
-				});
-				http.open("GET", "/api/getImage");
-				http.send();
-			}	//load image
+		let zoomlevel = 1;		//1 2 3 4
+		console.log("Started....");
+		//just put the unzoomed image in to start
+		function zoom() {
 
-			
-			loadImage();
+			let img = document.querySelector(".image");
+			let zi = document.querySelector(".zoomed-image");
 
-		})();
-	</script>
+			//let b = img.getBoundingClientRect();
+			let ih = img.naturalHeight;
+			let iw = img.naturalWidth;
+			let ir = iw / ih;
+
+			let ww = window.innerWidth;
+			let wh = window.innerHeight;
+			let wr = ww / wh;
+
+			//work out which dimension will fill the screen... and set the width and height to that (and center it)
+
+			//console.log("window", ww, wh, wr);
+			//console.log("image", iw, ih, ir);
+			//console.log(ww / iw, wh / ih);
+
+			//set the zoomed image... this can probably be fixed....
+			let is = img.src;
+			is = is.substring(is.lastIndexOf("/") + 1);
+			zi.style.backgroundImage = "url('" + is + "')";
+
+			//if the wr < ir set the width to fill the screen and calculate the height based on the ratio
+			//else do the same for the width
+			//need to watch for screen resize and recalculate these
+
+			if (wr < ir) {
+				//set the width to full and adjust the height
+				//how much have we resized it by
+				//console.log("wr < ir");
+				let rs = iw / ww;
+				zi.style.width = ww + "px";
+				zi.style.height = wh / (ww / iw) + "px";
+			} else {
+				//console.log("wr > ir");
+				let rs = ih / wh;
+				zi.style.height = wh + "px";
+				zi.style.width = ww / (wh / ih) + "px";
+			}
+			//zi.style.width = (iw * zoomlevel) + "px";
+			//zi.style.height = (ih * zoomlevel) + "px";
+			zi.style.backgroundSize = (iw * zoomlevel) + "px " + (ih * zoomlevel) + "px";
+			let bpx = ((iw * zoomlevel) - ww) / 2;
+			let bpy = ((ih * zoomlevel) - wh) / 2;
+			//console.log(bpx, bpy);
+			zi.style.backgroundPosition = -bpx + "px " + -bpy + "px";
+		}
+
+		function loadImage() {
+			console.log("Getting new image");
+			let http = new XMLHttpRequest();
+			http.addEventListener("load", (p, r) => {
+				if (http.status === 200 && http.response.length !== 0) {
+					let du = "data:image/jpg;base64," + http.response;
+					let el = document.querySelector(".image");
+					el.setAttribute("src", du);
+					zoom();
+				}
+				setTimeout(loadImage, 1000);
+			});
+			http.open("GET", "/api/getImage");
+			http.send();
+		}	//load image
+
+		window.addEventListener("resize", e => {
+			zoom();
+		});
+
+		let b = document.querySelector(".zoom-button");
+		b.addEventListener("click", e => {
+			console.log(e);
+			zoomlevel++;
+			if (zoomlevel > 6) {
+				zoomlevel = 1;
+			}
+			zoom();
+		});
+
+		loadImage();
+		//zoom();
+	})();
+</script>
 <html>
