@@ -24,7 +24,7 @@ class  web_server(BaseHTTPRequestHandler):
 				mime = "text/html"
 				reply = True
 			elif self.path.endswith(".jpg"):
-				mime = "text/jpg"
+				mime = "image/jpg"
 				reply = True
 			elif self.path.endswith(".js"):
 				mime = "application/javascript"
