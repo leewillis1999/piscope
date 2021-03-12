@@ -82,12 +82,12 @@ def start_camera(path):
 
 try:
 	#configure logging
-	#if os.path.exists("camera.log"):
-	#	os.remove("camera.log")
-	#path = os.path.dirname(os.path.realpath(__file__)) + "/"
-
 	path = os.path.dirname(os.path.realpath(__file__))
 	logfile = path + "/camera.log"
+
+	if os.path.exists(logfile):
+		os.remove(logfile)
+
 	logging.basicConfig(
 		level=logging.INFO,
 		format=('[%(asctime)s] %(levelname)-8s %(name)-12s %(message)s'),
@@ -100,7 +100,8 @@ try:
 	logging.info("web server started")
 
 	start_camera(path)
+	#sleep(2000)
 
 except KeyboardInterrupt:
 	logging.error("Shutting down the web server")
-	httpd.socket_close()
+	#httpd.socket_close()
