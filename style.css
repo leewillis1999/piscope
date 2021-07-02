@@ -4,6 +4,7 @@ body {
     padding: 0px;
     height: 100%;
     width: 100%;
+    overflow:hidden;
 }
 
 .container {
@@ -91,4 +92,5 @@ body {
     bottom:0px;
     border:1px solid #ccc;
     overflow-y: scroll;
+    overflow-x: hidden;
 }
