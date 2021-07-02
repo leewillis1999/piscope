@@ -2,7 +2,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import threading
 import base64
 from time import sleep
-# from picamera import PiCamera
+from picamera import PiCamera
 import os
 import logging
 
