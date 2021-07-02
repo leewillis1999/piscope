@@ -12,6 +12,8 @@
     console.log("Started....");
     //just put the unzoomed image in to start
     function zoom() {
+        console.log("Zoom...");
+        document.querySelector(".loggy").innerText = text;
 
         let ih = img.naturalHeight;
         let iw = img.naturalWidth;

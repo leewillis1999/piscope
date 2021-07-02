@@ -15,6 +15,44 @@
 
 	<title>PiZeroCam</title>
 
+	<script>
+		var logtoscreen = function (msg) {
+			var el = document.querySelector(".log");
+			el.innerText = el.innerText + "\n" + msg;
+			el.scrollTo(0, el.scrollHeight);
+		}
+		// define a new console
+		var console = (function (oldCons) {
+			return {
+				log: function (msg) {
+					oldCons.log(msg);
+					logtoscreen(msg);
+				},
+				info: function (msg) {
+					msg = "INFO: " + msg;
+					oldCons.info(msg);
+					logtoscreen(msg);
+				},
+				warn: function (msg) {
+					msg = "WARN: " + msg;
+					oldCons.warn(msg);
+					logtoscreen(msg);
+				},
+				error: function (msg) {
+					msg = "ERROR: " + msg;
+					oldCons.error(msg);
+					logtoscreen(msg);
+				}
+			};
+		}(window.console));
+
+		//Then redefine the old console
+		window.console = console;
+
+		window.onerror = (err, src, ln) => {
+			console.error("line: " + ln + " - " + err);
+		}
+	</script>
 </head>
 
 <body>
@@ -30,6 +68,9 @@
 		</div>
 		<img class="image">
 		<img class="zoomed-image">
+
+	</div>
+	<div class="log">
 
 	</div>
 </body>

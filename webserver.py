@@ -2,7 +2,7 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import threading
 import base64
 from time import sleep
-from picamera import PiCamera
+# from picamera import PiCamera
 import os
 import logging
 
@@ -86,6 +86,7 @@ try:
 	logfile = path + "/camera.log"
 
 	if os.path.exists(logfile):
+		print("log file exists")
 		os.remove(logfile)
 
 	logging.basicConfig(
@@ -94,13 +95,18 @@ try:
 		filename=(logfile)
 	)
 	logging.info("")
+
+	#comment for local dev
+	# start_web_server()
+
+	##uncomment to run on the pi
 	thread = threading.Thread(target=start_web_server)
 	thread.setDaemon(True)
 	thread.start()
 	logging.info("web server started")
 
 	start_camera(path)
-	#sleep(2000)
+	#### sleep(2000)
 
 except KeyboardInterrupt:
 	logging.error("Shutting down the web server")

@@ -82,3 +82,13 @@ body {
     outline: none;
     cursor: pointer;
 }
+
+.log{
+    padding:0px 10px;
+    height: 100px;
+    width:99%;
+    position:absolute;
+    bottom:0px;
+    border:1px solid #ccc;
+    overflow-y: scroll;
+}
