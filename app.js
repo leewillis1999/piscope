@@ -69,7 +69,7 @@
                 let du = "data:image/jpg;base64," + http.response;
                 let el = document.querySelector(".image");
                 el.setAttribute("src", du);
-                zoom();
+                /*zoom();*/
             }
             setTimeout(loadImage, 1000);
         });

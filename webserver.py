@@ -87,7 +87,7 @@ try:
 
 	if os.path.exists(logfile):
 		print("log file exists")
-		os.remove(logfile)
+		### os.remove(logfile)
 
 	logging.basicConfig(
 		level=logging.INFO,
@@ -97,7 +97,7 @@ try:
 	logging.info("")
 
 	#comment for local dev
-	# start_web_server()
+	##start_web_server()
 
 	##uncomment to run on the pi
 	thread = threading.Thread(target=start_web_server)

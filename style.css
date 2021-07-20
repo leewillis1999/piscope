@@ -8,6 +8,8 @@ body {
 }
 
 .container {
+    box-sizing: border-box;
+    border:2px solid red;
     display: grid;
     place-items: center;
     width: 100%;
@@ -15,13 +17,13 @@ body {
 }
 
 .image {
-    display: none;
+    /*display: none;*/
     width: 100%;
     height: auto;
-    display: none;
 }
 
 .zoomed-image {
+    display: none;
     border: 0px solid #ccc;
     background-repeat: no-repeat;
 
@@ -34,6 +36,7 @@ body {
 }
 
 .slider{
+    display: none;
     -webkit-appearance: none;  /* Override default CSS styles */
     appearance: none;
     position: absolute;
