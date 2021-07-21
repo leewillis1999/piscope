@@ -14118,3 +14118,1084 @@
 [2021-07-20 14:36:56,157] INFO     root         Running in e:\Development\git\projects\personal\piscope/
 [2021-07-20 14:36:56,461] INFO     root         Serving GET for favicon.ico
 [2021-07-20 14:36:56,461] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:18,205] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:18,205] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:18,205] INFO     root         returning base64 image
+[2021-07-20 14:55:19,305] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:19,305] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:19,305] INFO     root         returning base64 image
+[2021-07-20 14:55:20,395] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:20,395] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:20,395] INFO     root         returning base64 image
+[2021-07-20 14:55:21,484] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:21,484] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:21,484] INFO     root         returning base64 image
+[2021-07-20 14:55:22,595] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:22,595] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:22,595] INFO     root         returning base64 image
+[2021-07-20 14:55:23,715] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:23,715] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:23,715] INFO     root         returning base64 image
+[2021-07-20 14:55:24,805] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:24,805] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:24,805] INFO     root         returning base64 image
+[2021-07-20 14:55:25,895] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:25,896] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:25,896] INFO     root         returning base64 image
+[2021-07-20 14:55:27,005] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:27,005] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:27,005] INFO     root         returning base64 image
+[2021-07-20 14:55:28,114] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:28,114] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:28,114] INFO     root         returning base64 image
+[2021-07-20 14:55:29,215] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:29,215] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:29,215] INFO     root         returning base64 image
+[2021-07-20 14:55:30,304] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:30,304] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:30,304] INFO     root         returning base64 image
+[2021-07-20 14:55:31,400] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:31,400] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:31,401] INFO     root         returning base64 image
+[2021-07-20 14:55:32,505] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:32,505] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:32,505] INFO     root         returning base64 image
+[2021-07-20 14:55:33,605] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:33,605] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:33,605] INFO     root         returning base64 image
+[2021-07-20 14:55:34,704] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:34,704] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:34,705] INFO     root         returning base64 image
+[2021-07-20 14:55:35,784] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:35,784] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:35,784] INFO     root         returning base64 image
+[2021-07-20 14:55:36,865] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:36,865] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:36,865] INFO     root         returning base64 image
+[2021-07-20 14:55:37,955] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:37,955] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:37,955] INFO     root         returning base64 image
+[2021-07-20 14:55:39,055] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:39,055] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:39,055] INFO     root         returning base64 image
+[2021-07-20 14:55:40,154] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:40,154] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:40,154] INFO     root         returning base64 image
+[2021-07-20 14:55:41,264] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:41,264] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:41,265] INFO     root         returning base64 image
+[2021-07-20 14:55:42,355] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:42,355] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:42,355] INFO     root         returning base64 image
+[2021-07-20 14:55:43,444] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:43,444] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:43,444] INFO     root         returning base64 image
+[2021-07-20 14:55:44,545] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:44,545] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:44,545] INFO     root         returning base64 image
+[2021-07-20 14:55:45,635] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:45,635] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:45,635] INFO     root         returning base64 image
+[2021-07-20 14:55:46,755] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:46,755] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:46,755] INFO     root         returning base64 image
+[2021-07-20 14:55:47,864] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:47,864] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:47,864] INFO     root         returning base64 image
+[2021-07-20 14:55:48,985] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:48,985] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:48,985] INFO     root         returning base64 image
+[2021-07-20 14:55:50,084] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:50,084] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:50,084] INFO     root         returning base64 image
+[2021-07-20 14:55:51,195] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:51,195] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:51,195] INFO     root         returning base64 image
+[2021-07-20 14:55:52,344] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:52,344] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:52,344] INFO     root         returning base64 image
+[2021-07-20 14:55:53,453] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:53,453] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:53,453] INFO     root         returning base64 image
+[2021-07-20 14:55:54,564] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:54,564] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:54,564] INFO     root         returning base64 image
+[2021-07-20 14:55:55,669] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:55,669] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:55,669] INFO     root         returning base64 image
+[2021-07-20 14:55:56,763] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:56,763] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:56,764] INFO     root         returning base64 image
+[2021-07-20 14:55:57,859] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:57,859] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:57,859] INFO     root         returning base64 image
+[2021-07-20 14:55:58,948] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:55:58,948] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:55:58,949] INFO     root         returning base64 image
+[2021-07-20 14:56:00,070] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:56:00,070] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:56:00,071] INFO     root         returning base64 image
+[2021-07-20 14:56:01,255] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:56:01,255] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:56:01,255] INFO     root         returning base64 image
+[2021-07-20 14:56:02,385] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:56:02,385] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:56:02,385] INFO     root         returning base64 image
+[2021-07-20 14:56:03,494] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:56:03,494] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:56:03,494] INFO     root         returning base64 image
+[2021-07-20 14:56:04,597] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:56:04,597] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:56:04,598] INFO     root         returning base64 image
+[2021-07-20 14:56:05,695] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:56:05,695] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:56:05,695] INFO     root         returning base64 image
+[2021-07-20 14:56:06,886] INFO     root         Serving GET for api/getImage
+[2021-07-20 14:56:06,886] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-20 14:56:06,887] INFO     root         returning base64 image
+[2021-07-21 08:21:39,434] INFO     root         
+[2021-07-21 08:21:40,400] INFO     root         Starting web server...
+[2021-07-21 08:21:48,387] INFO     root         Serving GET for index.html
+[2021-07-21 08:21:48,387] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:21:48,388] INFO     root         Sending /index.html - type text/html
+[2021-07-21 08:21:48,423] INFO     root         Serving GET for style.css
+[2021-07-21 08:21:48,423] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:21:48,424] INFO     root         Sending /style.css - type text/css
+[2021-07-21 08:21:48,654] INFO     root         Serving GET for app.js
+[2021-07-21 08:21:48,654] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:21:48,655] INFO     root         Sending /app.js - type application/javascript
+[2021-07-21 08:21:48,997] INFO     root         Serving GET for favicon.ico
+[2021-07-21 08:21:48,997] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:21:56,405] INFO     root         Serving GET for style.css
+[2021-07-21 08:21:56,405] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:21:56,406] INFO     root         Sending /style.css - type text/css
+[2021-07-21 08:22:12,512] INFO     root         Serving GET for index.html
+[2021-07-21 08:22:12,512] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:12,512] INFO     root         Sending /index.html - type text/html
+[2021-07-21 08:22:12,532] INFO     root         Serving GET for style.css
+[2021-07-21 08:22:12,532] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:12,533] INFO     root         Sending /style.css - type text/css
+[2021-07-21 08:22:12,762] INFO     root         Serving GET for app.js
+[2021-07-21 08:22:12,762] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:12,763] INFO     root         Sending /app.js - type application/javascript
+[2021-07-21 08:22:13,077] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:13,078] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:13,078] INFO     root         returning base64 image
+[2021-07-21 08:22:13,114] INFO     root         Serving GET for favicon.ico
+[2021-07-21 08:22:13,115] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:14,120] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:14,120] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:14,121] INFO     root         returning base64 image
+[2021-07-21 08:22:15,448] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:15,448] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:15,449] INFO     root         returning base64 image
+[2021-07-21 08:22:16,475] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:16,475] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:16,476] INFO     root         returning base64 image
+[2021-07-21 08:22:17,799] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:17,799] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:17,800] INFO     root         returning base64 image
+[2021-07-21 08:22:18,809] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:18,809] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:18,810] INFO     root         returning base64 image
+[2021-07-21 08:22:20,136] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:20,136] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:20,137] INFO     root         returning base64 image
+[2021-07-21 08:22:21,161] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:21,162] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:21,162] INFO     root         returning base64 image
+[2021-07-21 08:22:22,498] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:22,498] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:22,499] INFO     root         returning base64 image
+[2021-07-21 08:22:23,519] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:23,520] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:23,520] INFO     root         returning base64 image
+[2021-07-21 08:22:24,836] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:24,837] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:24,837] INFO     root         returning base64 image
+[2021-07-21 08:22:25,851] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:25,851] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:25,852] INFO     root         returning base64 image
+[2021-07-21 08:22:27,184] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:27,184] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:27,185] INFO     root         returning base64 image
+[2021-07-21 08:22:28,201] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:28,202] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:28,202] INFO     root         returning base64 image
+[2021-07-21 08:22:29,541] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:29,541] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:29,542] INFO     root         returning base64 image
+[2021-07-21 08:22:30,565] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:30,566] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:30,566] INFO     root         returning base64 image
+[2021-07-21 08:22:31,891] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:31,891] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:31,892] INFO     root         returning base64 image
+[2021-07-21 08:22:43,140] INFO     root         Serving GET for index.html
+[2021-07-21 08:22:43,140] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:43,141] INFO     root         Sending /index.html - type text/html
+[2021-07-21 08:22:43,142] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:43,142] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:43,143] INFO     root         returning base64 image
+[2021-07-21 08:22:43,160] INFO     root         Serving GET for index.html
+[2021-07-21 08:22:43,160] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:43,161] INFO     root         Sending /index.html - type text/html
+[2021-07-21 08:22:43,214] INFO     root         Serving GET for style.css
+[2021-07-21 08:22:43,215] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:43,215] INFO     root         Sending /style.css - type text/css
+[2021-07-21 08:22:43,220] INFO     root         Serving GET for app.js
+[2021-07-21 08:22:43,220] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:43,221] INFO     root         Sending /app.js - type application/javascript
+[2021-07-21 08:22:43,257] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:43,258] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:43,258] INFO     root         returning base64 image
+[2021-07-21 08:22:44,472] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:44,472] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:44,473] INFO     root         returning base64 image
+[2021-07-21 08:22:45,495] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:45,495] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:45,496] INFO     root         returning base64 image
+[2021-07-21 08:22:45,499] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:45,499] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:45,500] INFO     root         returning base64 image
+[2021-07-21 08:22:46,797] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:46,798] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:46,798] INFO     root         returning base64 image
+[2021-07-21 08:22:46,821] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:46,821] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:46,822] INFO     root         returning base64 image
+[2021-07-21 08:22:47,839] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:47,839] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:47,840] INFO     root         returning base64 image
+[2021-07-21 08:22:47,940] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:47,940] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:47,941] INFO     root         returning base64 image
+[2021-07-21 08:22:49,179] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:49,179] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:49,180] INFO     root         returning base64 image
+[2021-07-21 08:22:49,235] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:49,235] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:49,236] INFO     root         returning base64 image
+[2021-07-21 08:22:50,192] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:50,193] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:50,193] INFO     root         returning base64 image
+[2021-07-21 08:22:50,481] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:50,481] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:50,482] INFO     root         returning base64 image
+[2021-07-21 08:22:51,518] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:51,518] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:51,519] INFO     root         returning base64 image
+[2021-07-21 08:22:51,628] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:51,628] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:51,629] INFO     root         returning base64 image
+[2021-07-21 08:22:52,531] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:52,531] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:52,532] INFO     root         returning base64 image
+[2021-07-21 08:22:52,744] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:52,745] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:52,745] INFO     root         returning base64 image
+[2021-07-21 08:22:53,845] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:53,845] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:53,846] INFO     root         returning base64 image
+[2021-07-21 08:22:53,933] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:53,934] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:53,934] INFO     root         returning base64 image
+[2021-07-21 08:22:54,858] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:54,858] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:54,859] INFO     root         returning base64 image
+[2021-07-21 08:22:55,107] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:55,108] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:55,108] INFO     root         returning base64 image
+[2021-07-21 08:22:56,194] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:56,194] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:56,195] INFO     root         returning base64 image
+[2021-07-21 08:22:56,219] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:56,219] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:56,220] INFO     root         returning base64 image
+[2021-07-21 08:22:57,209] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:57,210] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:57,210] INFO     root         returning base64 image
+[2021-07-21 08:22:57,386] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:57,386] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:57,387] INFO     root         returning base64 image
+[2021-07-21 08:22:58,523] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:58,523] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:58,524] INFO     root         returning base64 image
+[2021-07-21 08:22:58,538] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:58,538] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:58,539] INFO     root         returning base64 image
+[2021-07-21 08:22:59,553] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:59,554] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:59,555] INFO     root         returning base64 image
+[2021-07-21 08:22:59,785] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:22:59,786] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:22:59,786] INFO     root         returning base64 image
+[2021-07-21 08:23:00,888] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:00,888] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:00,889] INFO     root         returning base64 image
+[2021-07-21 08:23:01,133] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:01,133] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:01,134] INFO     root         returning base64 image
+[2021-07-21 08:23:01,910] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:01,910] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:01,911] INFO     root         returning base64 image
+[2021-07-21 08:23:02,271] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:02,272] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:02,272] INFO     root         returning base64 image
+[2021-07-21 08:23:03,237] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:03,238] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:03,238] INFO     root         returning base64 image
+[2021-07-21 08:23:03,386] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:03,386] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:03,387] INFO     root         returning base64 image
+[2021-07-21 08:23:04,249] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:04,249] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:04,250] INFO     root         returning base64 image
+[2021-07-21 08:23:04,570] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:04,570] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:04,571] INFO     root         returning base64 image
+[2021-07-21 08:23:05,588] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:05,588] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:05,589] INFO     root         returning base64 image
+[2021-07-21 08:23:05,694] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:05,695] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:05,696] INFO     root         returning base64 image
+[2021-07-21 08:23:06,608] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:06,608] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:06,609] INFO     root         returning base64 image
+[2021-07-21 08:23:06,883] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:06,883] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:06,884] INFO     root         returning base64 image
+[2021-07-21 08:23:07,947] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:07,947] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:07,948] INFO     root         returning base64 image
+[2021-07-21 08:23:08,060] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:08,060] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:08,061] INFO     root         returning base64 image
+[2021-07-21 08:23:08,959] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:08,959] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:08,960] INFO     root         returning base64 image
+[2021-07-21 08:23:09,184] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:09,184] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:09,185] INFO     root         returning base64 image
+[2021-07-21 08:23:10,296] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:10,297] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:10,297] INFO     root         returning base64 image
+[2021-07-21 08:23:10,466] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:10,466] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:10,467] INFO     root         returning base64 image
+[2021-07-21 08:23:11,320] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:11,320] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:11,321] INFO     root         returning base64 image
+[2021-07-21 08:23:12,268] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:12,269] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:12,269] INFO     root         returning base64 image
+[2021-07-21 08:23:12,654] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:12,655] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:12,655] INFO     root         returning base64 image
+[2021-07-21 08:23:13,673] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:13,673] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:13,674] INFO     root         returning base64 image
+[2021-07-21 08:23:13,677] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:13,678] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:13,679] INFO     root         returning base64 image
+[2021-07-21 08:23:14,867] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:14,868] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:14,868] INFO     root         returning base64 image
+[2021-07-21 08:23:15,002] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:15,002] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:15,003] INFO     root         returning base64 image
+[2021-07-21 08:23:16,014] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:16,015] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:16,015] INFO     root         returning base64 image
+[2021-07-21 08:23:16,084] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:16,084] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:16,085] INFO     root         returning base64 image
+[2021-07-21 08:23:17,215] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:17,215] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:17,216] INFO     root         returning base64 image
+[2021-07-21 08:23:17,351] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:17,352] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:17,353] INFO     root         returning base64 image
+[2021-07-21 08:23:18,377] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:18,378] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:18,378] INFO     root         returning base64 image
+[2021-07-21 08:23:18,404] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:18,405] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:18,405] INFO     root         returning base64 image
+[2021-07-21 08:23:19,557] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:19,557] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:19,558] INFO     root         returning base64 image
+[2021-07-21 08:23:19,702] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:19,703] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:19,703] INFO     root         returning base64 image
+[2021-07-21 08:23:20,726] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:20,726] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:20,727] INFO     root         returning base64 image
+[2021-07-21 08:23:20,730] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:20,730] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:20,731] INFO     root         returning base64 image
+[2021-07-21 08:23:21,949] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:21,949] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:21,950] INFO     root         returning base64 image
+[2021-07-21 08:23:22,062] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:22,062] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:22,063] INFO     root         returning base64 image
+[2021-07-21 08:23:23,085] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:23,085] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:23,086] INFO     root         returning base64 image
+[2021-07-21 08:23:23,089] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:23,089] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:23,090] INFO     root         returning base64 image
+[2021-07-21 08:23:24,243] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:24,243] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:24,244] INFO     root         returning base64 image
+[2021-07-21 08:23:24,415] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:24,415] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:24,416] INFO     root         returning base64 image
+[2021-07-21 08:23:25,427] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:25,427] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:25,428] INFO     root         returning base64 image
+[2021-07-21 08:23:25,431] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:25,432] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:25,433] INFO     root         returning base64 image
+[2021-07-21 08:23:26,549] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:26,549] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:26,550] INFO     root         returning base64 image
+[2021-07-21 08:23:26,746] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:26,747] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:26,747] INFO     root         returning base64 image
+[2021-07-21 08:23:27,758] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:27,759] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:27,759] INFO     root         returning base64 image
+[2021-07-21 08:23:27,762] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:27,763] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:27,764] INFO     root         returning base64 image
+[2021-07-21 08:23:28,902] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:28,902] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:28,903] INFO     root         returning base64 image
+[2021-07-21 08:23:29,082] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:29,082] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:29,083] INFO     root         returning base64 image
+[2021-07-21 08:23:30,092] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:30,093] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:30,093] INFO     root         returning base64 image
+[2021-07-21 08:23:30,096] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:30,097] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:30,098] INFO     root         returning base64 image
+[2021-07-21 08:23:31,219] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:31,220] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:31,220] INFO     root         returning base64 image
+[2021-07-21 08:23:31,419] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:31,419] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:31,420] INFO     root         returning base64 image
+[2021-07-21 08:23:32,429] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:32,429] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:32,430] INFO     root         returning base64 image
+[2021-07-21 08:23:32,433] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:32,433] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:32,434] INFO     root         returning base64 image
+[2021-07-21 08:23:33,568] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:33,568] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:33,569] INFO     root         returning base64 image
+[2021-07-21 08:23:33,756] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:33,756] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:33,757] INFO     root         returning base64 image
+[2021-07-21 08:23:34,781] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:34,781] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:34,782] INFO     root         returning base64 image
+[2021-07-21 08:23:34,785] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:34,785] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:34,786] INFO     root         returning base64 image
+[2021-07-21 08:23:35,911] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:35,911] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:35,912] INFO     root         returning base64 image
+[2021-07-21 08:23:36,114] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:36,114] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:36,115] INFO     root         returning base64 image
+[2021-07-21 08:23:37,140] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:37,140] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:37,141] INFO     root         returning base64 image
+[2021-07-21 08:23:37,144] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:37,144] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:37,145] INFO     root         returning base64 image
+[2021-07-21 08:23:38,396] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:38,396] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:38,397] INFO     root         returning base64 image
+[2021-07-21 08:23:38,482] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:38,482] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:38,483] INFO     root         returning base64 image
+[2021-07-21 08:23:39,493] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:39,493] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:39,494] INFO     root         returning base64 image
+[2021-07-21 08:23:39,616] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:39,617] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:39,617] INFO     root         returning base64 image
+[2021-07-21 08:23:40,699] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:40,700] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:40,700] INFO     root         returning base64 image
+[2021-07-21 08:23:40,825] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:40,825] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:40,826] INFO     root         returning base64 image
+[2021-07-21 08:23:40,914] INFO     root         Serving GET for index.html
+[2021-07-21 08:23:40,915] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:40,915] INFO     root         Sending /index.html - type text/html
+[2021-07-21 08:23:40,958] INFO     root         Serving GET for style.css
+[2021-07-21 08:23:40,959] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:40,959] INFO     root         Sending /style.css - type text/css
+[2021-07-21 08:23:40,960] INFO     root         Serving GET for app.js
+[2021-07-21 08:23:40,961] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:40,961] INFO     root         Sending /app.js - type application/javascript
+[2021-07-21 08:23:40,981] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:40,982] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:40,983] INFO     root         returning base64 image
+[2021-07-21 08:23:41,836] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:41,837] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:41,837] INFO     root         returning base64 image
+[2021-07-21 08:23:42,521] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:42,521] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:42,522] INFO     root         returning base64 image
+[2021-07-21 08:23:43,159] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:43,160] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:43,161] INFO     root         returning base64 image
+[2021-07-21 08:23:44,178] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:44,178] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:44,179] INFO     root         returning base64 image
+[2021-07-21 08:23:44,182] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:44,182] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:44,183] INFO     root         returning base64 image
+[2021-07-21 08:23:45,356] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:45,356] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:45,357] INFO     root         returning base64 image
+[2021-07-21 08:23:45,517] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:45,517] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:45,518] INFO     root         returning base64 image
+[2021-07-21 08:23:46,542] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:46,542] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:46,543] INFO     root         returning base64 image
+[2021-07-21 08:23:46,546] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:46,546] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:46,547] INFO     root         returning base64 image
+[2021-07-21 08:23:47,767] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:47,767] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:47,768] INFO     root         returning base64 image
+[2021-07-21 08:23:47,881] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:47,882] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:47,882] INFO     root         returning base64 image
+[2021-07-21 08:23:48,895] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:48,895] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:48,896] INFO     root         returning base64 image
+[2021-07-21 08:23:48,950] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:48,951] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:48,951] INFO     root         returning base64 image
+[2021-07-21 08:23:50,072] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:50,072] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:50,073] INFO     root         returning base64 image
+[2021-07-21 08:23:50,216] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:50,216] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:50,217] INFO     root         returning base64 image
+[2021-07-21 08:23:51,228] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:51,228] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:51,229] INFO     root         returning base64 image
+[2021-07-21 08:23:51,244] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:51,244] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:51,245] INFO     root         returning base64 image
+[2021-07-21 08:23:52,388] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:52,389] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:52,389] INFO     root         returning base64 image
+[2021-07-21 08:23:52,566] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:52,566] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:52,567] INFO     root         returning base64 image
+[2021-07-21 08:23:53,576] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:53,576] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:53,577] INFO     root         returning base64 image
+[2021-07-21 08:23:53,580] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:53,580] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:53,581] INFO     root         returning base64 image
+[2021-07-21 08:23:54,686] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:54,687] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:54,687] INFO     root         returning base64 image
+[2021-07-21 08:23:54,908] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:54,909] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:54,909] INFO     root         returning base64 image
+[2021-07-21 08:23:55,923] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:55,923] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:55,924] INFO     root         returning base64 image
+[2021-07-21 08:23:55,927] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:55,927] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:55,928] INFO     root         returning base64 image
+[2021-07-21 08:23:57,064] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:57,064] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:57,065] INFO     root         returning base64 image
+[2021-07-21 08:23:57,261] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:57,262] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:57,262] INFO     root         returning base64 image
+[2021-07-21 08:23:58,271] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:58,271] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:58,272] INFO     root         returning base64 image
+[2021-07-21 08:23:58,275] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:58,276] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:58,277] INFO     root         returning base64 image
+[2021-07-21 08:23:59,389] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:59,390] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:59,390] INFO     root         returning base64 image
+[2021-07-21 08:23:59,613] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:23:59,613] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:23:59,614] INFO     root         returning base64 image
+[2021-07-21 08:24:00,636] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:00,636] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:00,637] INFO     root         returning base64 image
+[2021-07-21 08:24:00,640] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:00,640] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:00,641] INFO     root         returning base64 image
+[2021-07-21 08:24:01,887] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:01,887] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:01,888] INFO     root         returning base64 image
+[2021-07-21 08:24:01,963] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:01,963] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:01,964] INFO     root         returning base64 image
+[2021-07-21 08:24:02,973] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:02,974] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:02,974] INFO     root         returning base64 image
+[2021-07-21 08:24:03,018] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:03,018] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:03,019] INFO     root         returning base64 image
+[2021-07-21 08:24:04,109] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:04,109] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:04,110] INFO     root         returning base64 image
+[2021-07-21 08:24:04,309] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:04,309] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:04,310] INFO     root         returning base64 image
+[2021-07-21 08:24:05,329] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:05,329] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:05,330] INFO     root         returning base64 image
+[2021-07-21 08:24:05,333] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:05,333] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:05,334] INFO     root         returning base64 image
+[2021-07-21 08:24:06,546] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:06,546] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:06,547] INFO     root         returning base64 image
+[2021-07-21 08:24:06,659] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:06,659] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:06,660] INFO     root         returning base64 image
+[2021-07-21 08:24:07,673] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:07,673] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:07,674] INFO     root         returning base64 image
+[2021-07-21 08:24:07,731] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:07,731] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:07,732] INFO     root         returning base64 image
+[2021-07-21 08:24:08,882] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:08,882] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:08,883] INFO     root         returning base64 image
+[2021-07-21 08:24:08,995] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:08,995] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:08,996] INFO     root         returning base64 image
+[2021-07-21 08:24:10,007] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:10,007] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:10,008] INFO     root         returning base64 image
+[2021-07-21 08:24:10,011] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:10,011] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:10,012] INFO     root         returning base64 image
+[2021-07-21 08:24:11,100] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:11,100] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:11,101] INFO     root         returning base64 image
+[2021-07-21 08:24:11,329] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:11,330] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:11,330] INFO     root         returning base64 image
+[2021-07-21 08:24:12,353] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:12,353] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:12,354] INFO     root         returning base64 image
+[2021-07-21 08:24:12,357] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:12,357] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:12,358] INFO     root         returning base64 image
+[2021-07-21 08:24:13,539] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:13,539] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:13,540] INFO     root         returning base64 image
+[2021-07-21 08:24:13,677] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:13,677] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:13,678] INFO     root         returning base64 image
+[2021-07-21 08:24:14,691] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:14,691] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:14,692] INFO     root         returning base64 image
+[2021-07-21 08:24:14,695] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:14,695] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:14,696] INFO     root         returning base64 image
+[2021-07-21 08:24:15,882] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:15,883] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:15,883] INFO     root         returning base64 image
+[2021-07-21 08:24:16,015] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:16,016] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:16,016] INFO     root         returning base64 image
+[2021-07-21 08:24:17,026] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:17,027] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:17,027] INFO     root         returning base64 image
+[2021-07-21 08:24:17,036] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:17,036] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:17,037] INFO     root         returning base64 image
+[2021-07-21 08:24:18,360] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:18,360] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:18,361] INFO     root         returning base64 image
+[2021-07-21 08:24:18,412] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:18,412] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:18,413] INFO     root         returning base64 image
+[2021-07-21 08:24:19,373] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:19,373] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:19,374] INFO     root         returning base64 image
+[2021-07-21 08:24:20,067] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:20,067] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:20,068] INFO     root         returning base64 image
+[2021-07-21 08:24:20,702] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:20,702] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:20,703] INFO     root         returning base64 image
+[2021-07-21 08:24:21,724] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:21,724] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:21,725] INFO     root         returning base64 image
+[2021-07-21 08:24:21,728] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:21,728] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:21,729] INFO     root         returning base64 image
+[2021-07-21 08:24:22,839] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:22,839] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:22,840] INFO     root         returning base64 image
+[2021-07-21 08:24:23,059] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:23,059] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:23,060] INFO     root         returning base64 image
+[2021-07-21 08:24:24,082] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:24,082] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:24,083] INFO     root         returning base64 image
+[2021-07-21 08:24:24,086] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:24,086] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:24,087] INFO     root         returning base64 image
+[2021-07-21 08:24:25,222] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:25,223] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:25,223] INFO     root         returning base64 image
+[2021-07-21 08:24:25,404] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:25,404] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:25,405] INFO     root         returning base64 image
+[2021-07-21 08:24:26,412] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:26,412] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:26,413] INFO     root         returning base64 image
+[2021-07-21 08:24:26,416] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:26,416] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:26,417] INFO     root         returning base64 image
+[2021-07-21 08:24:27,542] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:27,542] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:27,542] INFO     root         returning base64 image
+[2021-07-21 08:24:27,734] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:27,734] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:27,735] INFO     root         returning base64 image
+[2021-07-21 08:24:28,753] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:28,753] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:28,754] INFO     root         returning base64 image
+[2021-07-21 08:24:28,773] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:28,773] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:28,774] INFO     root         returning base64 image
+[2021-07-21 08:24:30,072] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:30,073] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:30,073] INFO     root         returning base64 image
+[2021-07-21 08:24:30,089] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:30,089] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:30,090] INFO     root         returning base64 image
+[2021-07-21 08:24:31,082] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:31,083] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:31,083] INFO     root         returning base64 image
+[2021-07-21 08:24:31,244] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:31,244] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:31,244] INFO     root         returning base64 image
+[2021-07-21 08:24:32,402] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:32,402] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:32,403] INFO     root         returning base64 image
+[2021-07-21 08:24:32,417] INFO     root         Serving GET for api/getImage
+[2021-07-21 08:24:32,417] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 08:24:32,418] INFO     root         returning base64 image
+[2021-07-21 08:24:33,421] ERROR    root         Shutting down the web server
+[2021-07-21 09:30:12,342] INFO     root         
+[2021-07-21 09:30:13,234] INFO     root         Starting web server...
+[2021-07-21 09:30:13,456] INFO     root         Serving GET for index.html
+[2021-07-21 09:30:13,457] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:13,458] INFO     root         Sending /index.html - type text/html
+[2021-07-21 09:30:13,484] INFO     root         Serving GET for style.css
+[2021-07-21 09:30:13,485] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:13,486] INFO     root         Sending /style.css - type text/css
+[2021-07-21 09:30:13,674] INFO     root         Serving GET for app.js
+[2021-07-21 09:30:13,674] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:13,675] INFO     root         Sending /app.js - type application/javascript
+[2021-07-21 09:30:13,984] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:13,984] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:13,985] INFO     root         returning base64 image
+[2021-07-21 09:30:13,988] INFO     root         Serving GET for favicon.ico
+[2021-07-21 09:30:13,988] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:15,007] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:15,007] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:15,008] INFO     root         returning base64 image
+[2021-07-21 09:30:16,326] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:16,326] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:16,327] INFO     root         returning base64 image
+[2021-07-21 09:30:17,351] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:17,351] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:17,352] INFO     root         returning base64 image
+[2021-07-21 09:30:18,681] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:18,681] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:18,682] INFO     root         returning base64 image
+[2021-07-21 09:30:19,693] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:19,693] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:19,694] INFO     root         returning base64 image
+[2021-07-21 09:30:21,014] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:21,014] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:21,015] INFO     root         returning base64 image
+[2021-07-21 09:30:22,037] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:22,038] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:22,038] INFO     root         returning base64 image
+[2021-07-21 09:30:23,362] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:23,362] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:23,363] INFO     root         returning base64 image
+[2021-07-21 09:30:24,371] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:24,372] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:24,372] INFO     root         returning base64 image
+[2021-07-21 09:30:24,697] INFO     root         Serving GET for index.html
+[2021-07-21 09:30:24,698] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:24,698] INFO     root         Sending /index.html - type text/html
+[2021-07-21 09:30:24,711] INFO     root         Serving GET for style.css
+[2021-07-21 09:30:24,712] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:24,712] INFO     root         Sending /style.css - type text/css
+[2021-07-21 09:30:24,949] INFO     root         Serving GET for app.js
+[2021-07-21 09:30:24,949] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:24,950] INFO     root         Sending /app.js - type application/javascript
+[2021-07-21 09:30:25,262] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:25,262] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:25,263] INFO     root         returning base64 image
+[2021-07-21 09:30:25,265] INFO     root         Serving GET for favicon.ico
+[2021-07-21 09:30:25,266] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:26,286] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:26,286] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:26,287] INFO     root         returning base64 image
+[2021-07-21 09:30:27,607] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:27,608] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:27,608] INFO     root         returning base64 image
+[2021-07-21 09:30:28,626] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:28,626] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:28,627] INFO     root         returning base64 image
+[2021-07-21 09:30:29,949] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:29,950] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:29,950] INFO     root         returning base64 image
+[2021-07-21 09:30:30,958] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:30,959] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:30,959] INFO     root         returning base64 image
+[2021-07-21 09:30:32,291] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:32,291] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:32,292] INFO     root         returning base64 image
+[2021-07-21 09:30:33,313] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:33,313] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:33,314] INFO     root         returning base64 image
+[2021-07-21 09:30:34,079] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:34,080] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:34,080] INFO     root         returning base64 image
+[2021-07-21 09:30:34,637] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:34,637] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:34,638] INFO     root         returning base64 image
+[2021-07-21 09:30:34,789] INFO     root         Serving GET for index.html
+[2021-07-21 09:30:34,789] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:34,790] INFO     root         Sending /index.html - type text/html
+[2021-07-21 09:30:34,822] INFO     root         Serving GET for style.css
+[2021-07-21 09:30:34,822] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:34,823] INFO     root         Sending /style.css - type text/css
+[2021-07-21 09:30:34,826] INFO     root         Serving GET for app.js
+[2021-07-21 09:30:34,826] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:34,826] INFO     root         Sending /app.js - type application/javascript
+[2021-07-21 09:30:34,846] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:34,847] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:34,847] INFO     root         returning base64 image
+[2021-07-21 09:30:35,654] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:35,655] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:35,655] INFO     root         returning base64 image
+[2021-07-21 09:30:35,976] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:35,976] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:35,977] INFO     root         returning base64 image
+[2021-07-21 09:30:36,977] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:36,977] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:36,978] INFO     root         returning base64 image
+[2021-07-21 09:30:37,077] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:37,078] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:37,078] INFO     root         returning base64 image
+[2021-07-21 09:30:37,997] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:37,997] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:37,998] INFO     root         returning base64 image
+[2021-07-21 09:30:38,182] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:38,183] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:38,183] INFO     root         returning base64 image
+[2021-07-21 09:30:39,289] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:39,289] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:39,290] INFO     root         returning base64 image
+[2021-07-21 09:30:39,325] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:39,326] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:39,326] INFO     root         returning base64 image
+[2021-07-21 09:30:40,335] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:40,335] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:40,336] INFO     root         returning base64 image
+[2021-07-21 09:30:40,384] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:40,385] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:40,385] INFO     root         returning base64 image
+[2021-07-21 09:30:41,513] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:41,514] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:41,514] INFO     root         returning base64 image
+[2021-07-21 09:30:41,655] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:41,655] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:41,656] INFO     root         returning base64 image
+[2021-07-21 09:30:42,668] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:42,668] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:42,669] INFO     root         returning base64 image
+[2021-07-21 09:30:42,897] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:42,898] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:42,898] INFO     root         returning base64 image
+[2021-07-21 09:30:43,987] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:43,987] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:43,988] INFO     root         returning base64 image
+[2021-07-21 09:30:44,146] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:44,146] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:44,147] INFO     root         returning base64 image
+[2021-07-21 09:30:45,000] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:45,000] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:45,001] INFO     root         returning base64 image
+[2021-07-21 09:30:45,254] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:45,255] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:45,255] INFO     root         returning base64 image
+[2021-07-21 09:30:46,336] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:46,336] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:46,337] INFO     root         returning base64 image
+[2021-07-21 09:30:46,361] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:46,361] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:46,362] INFO     root         returning base64 image
+[2021-07-21 09:30:47,347] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:47,347] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:47,348] INFO     root         returning base64 image
+[2021-07-21 09:30:47,669] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:47,670] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:47,670] INFO     root         returning base64 image
+[2021-07-21 09:30:48,677] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:48,677] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:48,678] INFO     root         returning base64 image
+[2021-07-21 09:30:48,777] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:48,777] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:48,778] INFO     root         returning base64 image
+[2021-07-21 09:30:49,688] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:49,688] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:49,689] INFO     root         returning base64 image
+[2021-07-21 09:30:49,905] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:49,905] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:49,906] INFO     root         returning base64 image
+[2021-07-21 09:30:51,019] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:51,019] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:51,020] INFO     root         returning base64 image
+[2021-07-21 09:30:51,022] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:51,022] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:51,023] INFO     root         returning base64 image
+[2021-07-21 09:30:52,043] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:52,044] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:52,044] INFO     root         returning base64 image
+[2021-07-21 09:30:52,225] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:52,225] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:52,225] INFO     root         returning base64 image
+[2021-07-21 09:30:53,373] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:53,373] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:53,374] INFO     root         returning base64 image
+[2021-07-21 09:30:54,396] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:54,396] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:54,397] INFO     root         returning base64 image
+[2021-07-21 09:30:54,400] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:54,401] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:54,402] INFO     root         returning base64 image
+[2021-07-21 09:30:55,533] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:55,533] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:55,534] INFO     root         returning base64 image
+[2021-07-21 09:30:55,728] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:55,728] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:55,729] INFO     root         returning base64 image
+[2021-07-21 09:30:56,746] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:56,746] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:56,747] INFO     root         returning base64 image
+[2021-07-21 09:30:56,750] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:56,751] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:56,752] INFO     root         returning base64 image
+[2021-07-21 09:30:57,869] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:57,869] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:57,870] INFO     root         returning base64 image
+[2021-07-21 09:30:58,067] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:58,067] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:58,068] INFO     root         returning base64 image
+[2021-07-21 09:30:59,079] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:59,079] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:59,080] INFO     root         returning base64 image
+[2021-07-21 09:30:59,083] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:30:59,083] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:30:59,084] INFO     root         returning base64 image
+[2021-07-21 09:31:00,411] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:00,411] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:00,412] INFO     root         returning base64 image
+[2021-07-21 09:31:01,434] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:01,434] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:01,435] INFO     root         returning base64 image
+[2021-07-21 09:31:01,438] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:01,439] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:01,440] INFO     root         returning base64 image
+[2021-07-21 09:31:02,597] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:02,597] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:02,597] INFO     root         returning base64 image
+[2021-07-21 09:31:02,757] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:02,757] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:02,758] INFO     root         returning base64 image
+[2021-07-21 09:31:03,766] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:03,766] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:03,767] INFO     root         returning base64 image
+[2021-07-21 09:31:04,082] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:04,082] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:04,083] INFO     root         returning base64 image
+[2021-07-21 09:31:05,087] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:05,087] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:05,088] INFO     root         returning base64 image
+[2021-07-21 09:31:05,218] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:05,218] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:05,219] INFO     root         returning base64 image
+[2021-07-21 09:31:06,110] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:06,110] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:06,111] INFO     root         returning base64 image
+[2021-07-21 09:31:07,433] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:07,433] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:07,434] INFO     root         returning base64 image
+[2021-07-21 09:31:08,442] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:08,442] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:08,443] INFO     root         returning base64 image
+[2021-07-21 09:31:09,762] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:09,762] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:09,763] INFO     root         returning base64 image
+[2021-07-21 09:31:10,776] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:10,776] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:10,777] INFO     root         returning base64 image
+[2021-07-21 09:31:12,110] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:12,110] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:12,111] INFO     root         returning base64 image
+[2021-07-21 09:31:13,129] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:13,129] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:13,130] INFO     root         returning base64 image
+[2021-07-21 09:31:14,455] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:14,455] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:14,456] INFO     root         returning base64 image
+[2021-07-21 09:31:15,465] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:15,465] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:15,466] INFO     root         returning base64 image
+[2021-07-21 09:31:16,797] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:16,797] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:16,798] INFO     root         returning base64 image
+[2021-07-21 09:31:17,817] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:17,818] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:17,818] INFO     root         returning base64 image
+[2021-07-21 09:31:19,151] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:19,151] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:19,152] INFO     root         returning base64 image
+[2021-07-21 09:31:20,173] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:20,173] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:20,174] INFO     root         returning base64 image
+[2021-07-21 09:31:21,499] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:21,499] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:21,500] INFO     root         returning base64 image
+[2021-07-21 09:31:22,515] INFO     root         Serving GET for api/getImage
+[2021-07-21 09:31:22,515] INFO     root         Running in e:\Development\git\projects\personal\piscope/
+[2021-07-21 09:31:22,516] INFO     root         returning base64 image
