@@ -4,8 +4,8 @@ import base64
 from time import sleep
 import datetime as dt
 from subprocess import call, check_call
-from picamera import PiCamera
-#import picamera
+#from picamera import PiCamera
+import picamera
 from gpiozero import Device, Button
 import os
 import logging
@@ -66,7 +66,7 @@ def start_web_server():
 
 def start_camera(path):
 	logging.info ("Initialising camera...")
-	camera = PiCamera(resolution = (1280, 720), framerate = 30)
+	camera = picamera.PiCamera(resolution = (1280, 720), framerate = 30)
 	sleep(2)
 	logging.info("Camera initialised")
 	camera.shutter_speed = camera.exposure_speed
@@ -76,7 +76,7 @@ def start_camera(path):
 	camera.awb_mode = "off"
 	camera.awb_gains = g
 
-	#camera.annotate_background = camera.color('black')
+	camera.annotate_background = picamera.Color('black')
 
 	logging.info("Starting capture...")
 	for fn in camera.capture_continuous(path + "/target.jpg"):

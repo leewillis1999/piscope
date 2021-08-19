@@ -19157,3 +19157,84 @@
 [2021-08-19 11:11:27,248] INFO     root         Running in /home/pi/piscope/
 [2021-08-19 11:11:27,257] INFO     root         returning base64 image
 [2021-08-19 11:11:29,017] ERROR    root         Shutting down the web server
+[2021-08-19 11:13:35,015] INFO     root         
+[2021-08-19 11:13:35,030] INFO     root         web server started
+[2021-08-19 11:13:35,032] INFO     root         Initialising camera...
+[2021-08-19 11:13:35,173] INFO     root         Starting web server...
+[2021-08-19 11:13:37,350] INFO     root         Camera initialised
+[2021-08-19 11:14:30,639] INFO     root         
+[2021-08-19 11:14:30,648] INFO     root         web server started
+[2021-08-19 11:14:30,650] INFO     root         Initialising camera...
+[2021-08-19 11:14:30,773] INFO     root         Starting web server...
+[2021-08-19 11:14:32,958] INFO     root         Camera initialised
+[2021-08-19 11:15:09,940] INFO     root         
+[2021-08-19 11:15:09,945] INFO     root         web server started
+[2021-08-19 11:15:09,946] INFO     root         Initialising camera...
+[2021-08-19 11:15:10,073] INFO     root         Starting web server...
+[2021-08-19 11:15:12,257] INFO     root         Camera initialised
+[2021-08-19 11:15:12,288] INFO     root         Starting capture...
+[2021-08-19 11:15:18,828] INFO     root         Serving GET for index.html
+[2021-08-19 11:15:18,851] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:18,878] INFO     root         Sending /index.html - type text/html
+[2021-08-19 11:15:18,899] INFO     root         Serving GET for style.css
+[2021-08-19 11:15:18,901] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:18,911] INFO     root         Sending /style.css - type text/css
+[2021-08-19 11:15:18,924] INFO     root         Serving GET for app.js
+[2021-08-19 11:15:18,926] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:18,938] INFO     root         Sending /app.js - type application/javascript
+[2021-08-19 11:15:18,966] INFO     root         Serving GET for favicon.ico
+[2021-08-19 11:15:18,969] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:18,980] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:18,984] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:19,002] INFO     root         returning base64 image
+[2021-08-19 11:15:21,415] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:21,419] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:21,435] INFO     root         returning base64 image
+[2021-08-19 11:15:23,319] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:23,323] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:23,338] INFO     root         returning base64 image
+[2021-08-19 11:15:23,868] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:23,871] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:23,880] INFO     root         returning base64 image
+[2021-08-19 11:15:24,417] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:24,420] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:24,437] INFO     root         returning base64 image
+[2021-08-19 11:15:26,799] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:26,803] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:26,818] INFO     root         returning base64 image
+[2021-08-19 11:15:28,793] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:28,796] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:28,808] INFO     root         returning base64 image
+[2021-08-19 11:15:30,744] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:30,747] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:30,760] INFO     root         returning base64 image
+[2021-08-19 11:15:31,293] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:31,297] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:31,311] INFO     root         returning base64 image
+[2021-08-19 11:15:33,940] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:33,945] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:33,962] INFO     root         returning base64 image
+[2021-08-19 11:15:34,487] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:34,490] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:34,500] INFO     root         returning base64 image
+[2021-08-19 11:15:35,040] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:35,044] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:35,059] INFO     root         returning base64 image
+[2021-08-19 11:15:36,991] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:37,001] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:37,031] INFO     root         returning base64 image
+[2021-08-19 11:15:39,669] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:39,673] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:39,688] INFO     root         returning base64 image
+[2021-08-19 11:15:41,594] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:41,598] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:41,613] INFO     root         returning base64 image
+[2021-08-19 11:15:43,580] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:43,589] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:43,615] INFO     root         returning base64 image
+[2021-08-19 11:15:44,142] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:44,144] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:44,155] INFO     root         returning base64 image
+[2021-08-19 11:15:46,396] INFO     root         Serving GET for api/getImage
+[2021-08-19 11:15:46,417] INFO     root         Running in /home/pi/piscope/
+[2021-08-19 11:15:46,452] INFO     root         returning base64 image
