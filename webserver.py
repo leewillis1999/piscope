@@ -2,7 +2,11 @@ from http.server import HTTPServer, BaseHTTPRequestHandler
 import threading
 import base64
 from time import sleep
+import datetime as dt
+from subprocess import call, check_call
 from picamera import PiCamera
+#import picamera
+from gpiozero import Device, Button
 import os
 import logging
 
@@ -67,20 +71,31 @@ def start_camera(path):
 	logging.info("Camera initialised")
 	camera.shutter_speed = camera.exposure_speed
 	camera.exposure_mode = "off"
+	camera.rotation = 180
 	g = camera.awb_gains
 	camera.awb_mode = "off"
 	camera.awb_gains = g
 
+	#camera.annotate_background = camera.color('black')
+
 	logging.info("Starting capture...")
 	for fn in camera.capture_continuous(path + "/target.jpg"):
+		camera.annotate_text = dt.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 		#print ("Captured %s" % fn)
-		sleep(1)
+		sleep(0.25)
 
 	logging.info("Finished capture")
+
+def shutdown():
+	check_call(["sudo", "poweroff"])
 
 #global httpd
 
 try:
+	# set up the shutdown button
+	shutdownButton = Button(4, hold_time=1)
+	shutdownButton.when_held = shutdown
+
 	#configure logging
 	path = os.path.dirname(os.path.realpath(__file__))
 	logfile = path + "/camera.log"

@@ -71,7 +71,7 @@
                 el.setAttribute("src", du);
                 /*zoom();*/
             }
-            setTimeout(loadImage, 1000);
+            setTimeout(loadImage, 500);
         });
         http.open("GET", "/api/getImage");
         http.send();
